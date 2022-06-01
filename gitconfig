@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = estevesgonzalo@hotmail.com
+	name = gonzalo esteves
